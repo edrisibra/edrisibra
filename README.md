@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edrisibra Edris Ibrahim
 - 👀 I’m interested in Data Engineering and AI 
-- 🌱 I’m currently learning Linux/Kubernetes complex airflow
+- 🌱 I’m currently learning Linux/Kubernetes and advanced airflow
 - 💞️ I’m looking to collaborate on anything Data
 - 📫 How to reach me - linkedin https://www.linkedin.com/in/edris-i-138491177/
 - I like to ski and do things outside! Also like to solve hard problems with easy solutions! 
